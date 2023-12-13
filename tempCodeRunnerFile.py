@@ -1,0 +1,8 @@
+ # lab_img1.pack()
+        # sel_btn1.pack()
+        # sel_btn2.pack()
+        # sel_btn3.pack()
+        # sel_btn4.pack()
+        # sel_btn5.pack()
+        # sel_btn6.pack()
+        # sel_btn7.pack()
